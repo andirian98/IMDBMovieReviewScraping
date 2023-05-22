@@ -1,0 +1,12 @@
+﻿{
+  "Id": "TpDzdtkKP0W-14kunzI20w",
+  "Reference": "aKplmIa-JUW92zi8A_SIyw/TpDzdtkKP0W-14kunzI20w",
+  "ParentRef": "aKplmIa-JUW92zi8A_SIyw/PZVW6BiG50yLWFf16yPRQw",
+  "Name": "1.0.0",
+  "Type": "AppVersion",
+  "Created": "2023-03-06T02:58:37.4559612Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-03-06T02:58:37.4559612Z"
+}
